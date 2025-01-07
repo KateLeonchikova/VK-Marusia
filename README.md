@@ -106,11 +106,11 @@ npm >= 9.0.0
 
 ## 📝 Scripts
 
-`npm run dev` - run in development mode
-`npm run build` - build project
-`npm run lint` - check code
-`npm run preview` - preview build
-`npm run test` - run tests
+- `npm run dev` - run in development mode
+- `npm run build` - build project
+- `npm run lint` - check code
+- `npm run preview` - preview build
+- `npm run test` - run tests
 
 ## 🌐 API Documentation
 
