@@ -84,7 +84,7 @@ npm >= 9.0.0
    `git clone https://github.com/KateLeonchikova/VK-Marusia.git`
 
 2. **Navigate to the Project Directory:**
-   `cd vk-marusia`
+   `cd VK-Marusia`
 
 3. **Install dependencies:**
    Ensure you have Node.js installed, then run the following command:
@@ -97,8 +97,6 @@ npm >= 9.0.0
    `npm run build`
    The build files will be generated in the dist directory.
 
-   Run the Production Build: To preview the production build locally, run:
-
 6. **Run the Production Build:**
    To preview the production build locally, run:
    `npm run preview`
@@ -106,11 +104,11 @@ npm >= 9.0.0
 
 ## 📝 Scripts
 
-`npm run dev` - run in development mode
-`npm run build` - build project
-`npm run lint` - check code
-`npm run preview` - preview build
-`npm run test` - run tests
+- `npm run dev` - run in development mode
+- `npm run build` - build project
+- `npm run lint` - check code
+- `npm run preview` - preview build
+- `npm run test` - run tests
 
 ## 🌐 API Documentation
 
