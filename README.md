@@ -84,7 +84,7 @@ npm >= 9.0.0
    `git clone https://github.com/KateLeonchikova/VK-Marusia.git`
 
 2. **Navigate to the Project Directory:**
-   `cd vk-marusia`
+   `cd VK-Marusia`
 
 3. **Install dependencies:**
    Ensure you have Node.js installed, then run the following command:
