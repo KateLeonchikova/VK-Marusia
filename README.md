@@ -97,8 +97,6 @@ npm >= 9.0.0
    `npm run build`
    The build files will be generated in the dist directory.
 
-   Run the Production Build: To preview the production build locally, run:
-
 6. **Run the Production Build:**
    To preview the production build locally, run:
    `npm run preview`
